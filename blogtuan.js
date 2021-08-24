@@ -1,8 +1,8 @@
 function showComment() {
-var x = document.getElementById(&#39;myDivComments&#39;);
-if (x.style.display === &#39;none&#39;) {
-x.style.display = &#39;block&#39;;
-} else {
-x.style.display = &#39;none&#39;;
-}
+  var x = document.getElementById('myDivComments');
+  if (x.style.display === 'none') {
+  x.style.display = 'block';
+  } else {
+  x.style.display = 'none';
+  }
 }
